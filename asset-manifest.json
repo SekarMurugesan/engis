@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/engis/static/css/main.2c7f4254.css",
+    "main.js": "/engis/static/js/main.a4c2a79c.js",
+    "static/js/787.2ec53062.chunk.js": "/engis/static/js/787.2ec53062.chunk.js",
+    "static/media/About-us-apex.png": "/engis/static/media/About-us-apex.c678b784aa43d35e4b5a.png",
+    "static/media/banner.jpg": "/engis/static/media/banner.93fd36392b929371e7c3.jpg",
+    "static/media/contact.png": "/engis/static/media/contact.3c2dd35c2efd359bf43e.png",
+    "static/media/EigerN.jpg": "/engis/static/media/EigerN.f9b69e61097d5238ff3b.jpg",
+    "static/media/mount BlancN.jpg": "/engis/static/media/mount BlancN.ca6779e98bbb49a4630a.jpg",
+    "static/media/AlpsN.jpg": "/engis/static/media/AlpsN.0b80ebec3d53cd0af4fa.jpg",
+    "static/media/FujiN.jpg": "/engis/static/media/FujiN.d8c64d38e3f80bb495ca.jpg",
+    "static/media/EverestN.jpg": "/engis/static/media/EverestN.291cc5411bccca0a33fd.jpg",
+    "static/media/OlympusN.jpg": "/engis/static/media/OlympusN.89751372105ff2a4d558.jpg",
+    "static/media/coding.svg": "/engis/static/media/coding.0a22c12ecf0339842470a8f00fa85839.svg",
+    "static/media/APEX-logo.svg": "/engis/static/media/APEX-logo.729750e598bb3b2d67b3ca27929fc363.svg",
+    "static/media/Dead-Simple.svg": "/engis/static/media/Dead-Simple.80b6946d6724e5c310a73c0dcad84ecb.svg",
+    "static/media/instagram.svg": "/engis/static/media/instagram.1cef1832e50be8170bd03792fe5f29a4.svg",
+    "static/media/Easy-to-Use.svg": "/engis/static/media/Easy-to-Use.39c451aa16e8d2dc91c36cb9f99e792f.svg",
+    "index.html": "/engis/index.html",
+    "static/media/linkedin.svg": "/engis/static/media/linkedin.8627c59cedd2f7088999f8ad439a5b68.svg",
+    "static/media/facebook.svg": "/engis/static/media/facebook.bfeb69fd5b29341454bd069b6f548fab.svg",
+    "static/media/Returntop.svg": "/engis/static/media/Returntop.71183f7ed3a9b57af0adfb5afe7af5dc.svg",
+    "main.2c7f4254.css.map": "/engis/static/css/main.2c7f4254.css.map",
+    "main.a4c2a79c.js.map": "/engis/static/js/main.a4c2a79c.js.map",
+    "787.2ec53062.chunk.js.map": "/engis/static/js/787.2ec53062.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c7f4254.css",
+    "static/js/main.a4c2a79c.js"
+  ]
+}
